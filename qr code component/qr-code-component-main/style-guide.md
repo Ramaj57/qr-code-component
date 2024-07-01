@@ -19,6 +19,9 @@ The designs were created to the following widths:
 ## Typography
 
 ### Body Copy
+1440 x 800 body vh(desktop)
+320 x 497 card(desktop)
+375 x 667 (mobile)
 
 - Font size (paragraph): 15px
 

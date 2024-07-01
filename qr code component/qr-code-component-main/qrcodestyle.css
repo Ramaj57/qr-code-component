@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;    
+}
+body{    
+    background-color:hsl(212, 45%, 89%);
+    max-height: 100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column;
+
+} 
+
+#card{
+    
+    border:1px solid;
+    border-radius:10px;
+    height: 497px;
+    width: 320px;
+    background-color:hsl(0, 0%, 100%);
+}
+
+#card-image .image{
+    position:relative;
+    left:
+}
