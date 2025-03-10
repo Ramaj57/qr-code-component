@@ -1,0 +1,26 @@
+Solution retrospective
+The solution retrospective helps you think about your project and share it with the community. Answer the three questions below to talk about your project, what you learned, and where you need support. Clear details help others understand and give useful feedback.
+
+What are you most proud of, and what would you do differently next time?
+Write
+Preview
+
+MARKDOWN HELP
+
+What challenges did you encounter, and how did you overcome them?
+Write
+Preview
+
+MARKDOWN HELP
+
+Viewport height understanding was the biggest challenge. I overcame that by researching what viewport was and why it is important. The other challenge I had was thinking the HTML had to be more complicated than it had to be. I overcame this with advice from a friend who said "it only need to be as complicated as it needs to be to work correctly".
+What specific areas of your project would you like help with?
+Be as specific as possible when asking questions or for feedback on areas of your code. This will increase your chances of receiving higher-quality input from others.
+
+Write
+Preview
+
+MARKDOWN HELP
+
+I would like to know when to use, and what is best to use the units pixels,%, em, and rem as units of padding, margin, width, height and font size. Also if their is a way to measure the amount of border radius in an image other than trial and error.
+  76
